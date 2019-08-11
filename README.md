@@ -7,6 +7,7 @@ Is it the director, actors, production company, movie genre, or MPAA rating whic
 
 # Dataset: 
 We obtained a dataset of 5,044 different movies and 28 quantitative features per each movie. Our main variable of interest is gross, which indicates if the movie was a hit or not. We are interested in determining which qualitative (or quantitative?) features are the best indicators for whether a movie faired well at the box office or not. Thus, our chosen attributes must be easily identifiable by the untrained moviegoer. We define the following variables with their corresponding potential value in our dataset:
+
 Gross 
 
 IMDB Rating—a number from 1 to 10
@@ -66,6 +67,8 @@ Found on [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metada
 
 # Requirements to Run: 
 
+Python3
+
 Scikit-Learn
 
 NumPy
@@ -75,12 +78,17 @@ matplotlib
 sklearn
 
 # Files:
-Inside folder "Scripts," are the scripts we ran for our study. Highlights include: silhouette analysis used for Kmeans, and Decision Tree Regression performed. Got some interesting findings. 
+Inside folder "Scripts," are the scripts we ran for our study. 
+
+Highlights include: Silhouette analysis used for K-means and a Decision Tree Regression. 
 
 # Conclusion: 
 LOW-BUDGET DIRECTORS: PLEASE SEE OUR STUDY!
 
-Most important contributing factors for success: Actor 1 Facebook Likes, Director Name
+Most important contributing factors for success: 
+
+Actor 1 Facebook Likes, Director Name
+
 Least important: Aspect-ratio
 
 GO SEE AVENGERS: ENDGAME!
