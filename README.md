@@ -1,6 +1,6 @@
 # What features contribute to the Gross Box Office Earnings?
 
-Many a time, people have faced this unavoidable problem: the movie has a poor ranking so should he or she see it regardless? While this problem may be trivial, our motivation for our project stems from figuring out what factors contribute to a box office movie. 
+Many a time, people have faced this unavoidable problem: the movie has a poor ranking so should he or she see it regardless? While this problem may be trivial, the motivation for our project stems from figuring out what factors contribute to a box office movie. 
 
 Is it the director, actors, production company, movie genre, or MPAA rating which heavily influence the gross? 
 
